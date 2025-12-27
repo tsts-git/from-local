@@ -8,6 +8,6 @@ const b = () => {
 }
 
 const c = () => {
-    console.log("cccc fearure-1")
+    console.log("cccc")
 }
 
